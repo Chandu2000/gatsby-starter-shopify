@@ -7,7 +7,7 @@
   Gatsby Starter Shopify
 </h1>
 
-Kick off your next [Shopify](https://www.shopify.com/) project with this boilerplate. This starter creates a store with a custom landing page, individual filtered views for each product, detailed product pages, advanced instant search and a shopping cart. All styled with CSS Modules.
+Kick off your next  [Shopify](https://www.shopify.com/) project with this boilerplate. This starter creates a store with a custom landing page, individual filtered views for each product, detailed product pages, advanced instant search and a shopping cart. All styled with CSS Modules.
 
 Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
 
@@ -16,6 +16,7 @@ Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cl
 Check out the [demo site](https://shopify-demo.gatsbyjs.com) showcasing a proof-of-concept with 10k products and 30k variants.
 
 ## 🚀 Quick start
+
 
 1.  **Create a Gatsby site.**
 
@@ -103,7 +104,7 @@ The whole logic for how the site looks and behaves is inside `src`.
 
 The site uses [CSS Modules](https://github.com/css-modules/css-modules) for styling, which allows you to use regular CSS, scoped to the individual component. Theme values such as fonts, colors and spacing are set in `src/styles/variables.css`.
 
-### SSR Search Page
+### SSR Search Page.
 
 The `/search` page uses server-side rendering to show a list of products based on filters and search terms in the URL query parameters.
 
